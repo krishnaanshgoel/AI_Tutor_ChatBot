@@ -1,0 +1,47 @@
+{
+  "images": [
+    {
+      "id": "img_001",
+      "filename": "SchoolBellVibration.png",
+      "title": "School Bell Vibration",
+      "keywords": ["bell", "vibration", "sound", "waves", "school", "acoustic", "resonance"],
+      "description": "Diagram showing how a school bell vibrates to produce sound waves through mechanical vibration and air compression"
+    },
+    {
+      "id": "img_002",
+      "filename": "CompressionAndRefraction.png",
+      "title": "Compression and Refraction",
+      "keywords": ["compression", "refraction", "sound wave", "medium", "density", "propagation"],
+      "description": "Illustration showing sound wave compression and refraction as it travels through different media with varying densities"
+    },
+    {
+      "id": "img_003",
+      "filename": "ReflectionOfSound.png",
+      "title": "Reflection of Sound",
+      "keywords": ["reflection", "echo", "sound wave", "bounce", "surface", "acoustic"],
+      "description": "Diagram demonstrating how sound waves reflect off surfaces, creating echoes and showing the angle of reflection"
+    },
+    {
+      "id": "img_004",
+      "filename": "MusicalInstrumentsVibrationChart.png",
+      "title": "Musical Instruments Vibration Chart",
+      "keywords": ["musical instruments", "vibration", "frequency", "pitch", "resonance", "harmonics"],
+      "description": "Chart showing vibration patterns and frequencies of different musical instruments and how they produce sound"
+    },
+    {
+      "id": "img_005",
+      "filename": "VibrationOfRubberBand.png",
+      "title": "Vibration of Rubber Band",
+      "keywords": ["rubber band", "vibration", "tension", "frequency", "oscillation", "wave"],
+      "description": "Visual demonstration of how a rubber band vibrates when plucked, showing wave patterns and frequency changes"
+    },
+    {
+      "id": "img_006",
+      "filename": "VocalCordsDiagram.png",
+      "title": "Vocal Cords Diagram",
+      "keywords": ["vocal cords", "voice", "larynx", "vibration", "speech", "anatomy", "sound production"],
+      "description": "Detailed anatomical diagram of vocal cords showing how they vibrate to produce sound and speech"
+    }
+  ]
+}
+

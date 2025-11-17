@@ -1,0 +1,46 @@
+{
+    "images": [
+      {
+        "id": "img_001",
+        "filename": "bell.png",
+        "title": "Bell Vibration",
+        "keywords": ["bell", "vibration", "sound", "waves", "physics", "acoustic"],
+        "description": "Diagram showing how a bell vibrates to produce sound waves through air compression"
+      },
+      {
+        "id": "img_002",
+        "filename": "sound_wave.png", 
+        "title": "Sound Wave Properties",
+        "keywords": ["sound wave", "amplitude", "frequency", "wavelength", "compression", "rarefaction"],
+        "description": "Illustration of sound wave properties showing amplitude, wavelength, and compression patterns"
+      },
+      {
+        "id": "img_003",
+        "filename": "ear_diagram.png",
+        "title": "Human Ear Anatomy", 
+        "keywords": ["ear", "anatomy", "hearing", "cochlea", "eardrum", "auditory"],
+        "description": "Detailed diagram of human ear anatomy showing outer, middle, and inner ear structures"
+      },
+      {
+        "id": "img_004",
+        "filename": "wave_interference.png",
+        "title": "Wave Interference",
+        "keywords": ["interference", "waves", "constructive", "destructive", "superposition", "pattern"],
+        "description": "Demonstration of constructive and destructive wave interference patterns in sound waves"
+      },
+      {
+        "id": "img_005", 
+        "filename": "doppler_effect.png",
+        "title": "Doppler Effect",
+        "keywords": ["doppler", "effect", "frequency", "moving source", "sound", "pitch"],
+        "description": "Visual explanation of the Doppler effect showing frequency changes with moving sound sources"
+      },
+      {
+        "id": "img_006",
+        "filename": "resonance.png", 
+        "title": "Acoustic Resonance",
+        "keywords": ["resonance", "acoustic", "vibration", "natural frequency", "amplification", "standing waves"],
+        "description": "Diagram showing acoustic resonance phenomena in different objects and musical instruments"
+      }
+    ]
+  }

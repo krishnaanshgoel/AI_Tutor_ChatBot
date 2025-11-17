@@ -1,0 +1,80 @@
+[
+  {
+    "id": "img_001",
+    "filename": "bell.png",
+    "title": "Bell Vibration",
+    "keywords": [
+      "bell",
+      "vibration",
+      "sound",
+      "waves",
+      "physics"
+    ],
+    "description": "Diagram showing how a bell vibrates to produce sound waves"
+  },
+  {
+    "id": "img_002",
+    "filename": "sound_wave.png",
+    "title": "Sound Wave Properties",
+    "keywords": [
+      "sound wave",
+      "amplitude",
+      "frequency",
+      "wavelength",
+      "compression"
+    ],
+    "description": "Illustration of sound wave properties including amplitude and wavelength"
+  },
+  {
+    "id": "img_003",
+    "filename": "ear_diagram.png",
+    "title": "Human Ear Anatomy",
+    "keywords": [
+      "ear",
+      "anatomy",
+      "hearing",
+      "cochlea",
+      "eardrum"
+    ],
+    "description": "Detailed diagram of human ear anatomy showing how sound is processed"
+  },
+  {
+    "id": "img_004",
+    "filename": "wave_interference.png",
+    "title": "Wave Interference",
+    "keywords": [
+      "interference",
+      "waves",
+      "constructive",
+      "destructive",
+      "superposition"
+    ],
+    "description": "Demonstration of constructive and destructive wave interference patterns"
+  },
+  {
+    "id": "img_005",
+    "filename": "doppler_effect.png",
+    "title": "Doppler Effect",
+    "keywords": [
+      "doppler",
+      "effect",
+      "frequency",
+      "moving source",
+      "sound"
+    ],
+    "description": "Visual explanation of the Doppler effect with moving sound sources"
+  },
+  {
+    "id": "img_006",
+    "filename": "resonance.png",
+    "title": "Acoustic Resonance",
+    "keywords": [
+      "resonance",
+      "acoustic",
+      "vibration",
+      "natural frequency",
+      "amplification"
+    ],
+    "description": "Diagram showing acoustic resonance in different objects and systems"
+  }
+]
