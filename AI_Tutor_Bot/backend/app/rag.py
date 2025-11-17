@@ -14,7 +14,7 @@ class RAGPipeline:
         self.chunks = []
         
         # Gemini setup
-        self.gemini_api_key = os.getenv("GEMINI_API_KEY", "AIzaSyDwhau7uU0qklViGsce2mvT5_neSJmYlZg")
+        self.gemini_api_key = os.getenv("GEMINI_API_KEY", "your_api_key_here")
         genai.configure(api_key=self.gemini_api_key)
         
         # Configure safety settings
